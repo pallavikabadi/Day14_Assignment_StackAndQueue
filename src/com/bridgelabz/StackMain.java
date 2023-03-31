@@ -6,6 +6,6 @@ public class StackMain {
         stacks.push(70);
         stacks.push(30);
         stacks.push(56);
-        stacks.print();
+        stacks.display();
     }
 }
